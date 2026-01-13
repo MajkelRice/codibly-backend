@@ -4,6 +4,12 @@ A RESTful service built with Spring Boot that monitors UK National Grid carbon i
 
 ## Author: Michał Ryz
 
+## Deployment
+
+App is deployed at: https://codibly-backend-pljr.onrender.com/swagger-ui/index.html#/
+
+After visiting wait for the app to load (it will go to sleep after 15min) and wait for Swagger Ui to appear
+
 ## Tech Stack
 
 * **Java 25**
